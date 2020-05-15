@@ -19,7 +19,8 @@ src/image-sif
 *.pkl
 
 # saved image files
-*.png
+img_save.png
+my_image.png
 
 # recorded files
 *.avi
