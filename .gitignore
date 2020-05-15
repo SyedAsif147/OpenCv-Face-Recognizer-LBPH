@@ -1,0 +1,28 @@
+# Modules
+Lib
+Scripts
+
+# configuration files
+*.cfg
+
+# project files
+*.sublime-project
+
+# workspace files
+*.sublime-workspace
+
+# unnecessary datasets
+src/asif_1
+src/image-sif
+
+# pickle files
+*.pkl
+
+# saved image files
+*.png
+
+# recorded files
+*.avi
+
+# saved models
+*.yml
