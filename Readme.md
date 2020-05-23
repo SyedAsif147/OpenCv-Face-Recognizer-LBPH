@@ -1,1 +1,1 @@
-# Opencv-Face-Recognizer
+# Opencv Face-Recognizer LBPH
